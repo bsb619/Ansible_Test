@@ -6,7 +6,7 @@
   vars:
     service_account_email: ""
     credentials_file: ""
-    project_id: project-1-196510
+    project_id: ansible-196606
     machine_type: n1-standard-2
     image: ubuntu-1604-xenial-v20180222
     zone: us-east1-b
